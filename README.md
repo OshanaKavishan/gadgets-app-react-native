@@ -73,6 +73,9 @@ SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
 You can find these keys in your Supabase project settings.
 
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to connect. ✨
+
 ## 🎥 Watch the Full Course Video
 If you want to deepen your understanding or explore a step-by-step guide related to this project, check out this helpful YouTube playlist:
 
