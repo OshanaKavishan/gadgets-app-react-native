@@ -5,6 +5,14 @@ Built with **React Native**, **Expo**, **Zustand**, and **Supabase**.
 
 ---
 
+### 🛍️ Mobile App (React Native)
+
+- **Home Screen**
+  
+  ![Mobile Home](./screenshots/mobile.png)
+
+---
+
 ## ⚙️ Tech Stack
 
 | Layer           | Technology               |
