@@ -65,14 +65,16 @@ SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
 You can find these keys in your Supabase project settings.
 
-## 🎥 Course Video
-📺 Watch the full course:
-Fullstack Gadgets App: React Native Expo & Next.js Admin
-▶️ YouTube Course Link (insert actual link if available)
+## 🎥 Watch the Full Course Video
+If you want to deepen your understanding or explore a step-by-step guide related to this project, check out this helpful YouTube playlist:
 
-## 👨‍💻 Author
-Laribright
-🔗 GitHub
-🌐 Portfolio (optional)
+👉 [Fullstack Gadgets App: React Native Expo & Next.js Admin](https://youtu.be/26opRFPU0a8)
 
-© 2025 — Built with ❤️ using React Native, Supabase, and Expo.
+## 🤝 Let's Work Together
+
+I'm Oshana Kavishan — passionate about building modern web and mobile applications.  
+If you're interested in working together or just want to connect, feel free to reach out!
+
+- 📧 Email: kavishansilva@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/oshana-kavishan-9ab10b23b](https://www.linkedin.com/in/oshana-kavishan-9ab10b23b)  
+- 💻 GitHub: [github.com/OshanaKavishan](https://github.com/OshanaKavishan)
